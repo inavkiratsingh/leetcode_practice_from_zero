@@ -16,3 +16,9 @@
 
 // prices = [7,1,5,3,6,4];
 // maxProfit(prices);
+
+//? second try by own
+
+//! no mind can search for algorithm 
+
+//? search the algorthm and then i hear about kadane's name 
