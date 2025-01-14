@@ -1,0 +1,1 @@
+words[0].includes("as");
